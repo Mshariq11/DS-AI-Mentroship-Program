@@ -3,7 +3,8 @@
 # About the Program
 This mentorship program is designed to provide with an immersive learning experience in the field of data science. Led by experienced mentors Dr.Ammar Tufail, the aims to equip with the knowledge, skills, and practical expertise to excel in the data science industry.
 
-#Learning Objectives
+# Learning Objectives
+
 Throughout this mentorship program, I will:
 
 📚 Gain a solid foundation in key data science concepts, including statistics, machine learning, and data wrangling.
